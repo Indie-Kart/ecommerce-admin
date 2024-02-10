@@ -1,4 +1,17 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# IndieKart
+IndieKart, an innovative e-shopping platform designed to elevate your online shopping experience to unparalleled heights. Our application is meticulously crafted to provide users with a comprehensive selection of products, each accompanied by detailed information to ensure absolute satisfaction.
+
+## Key Features:
+
+### Extensive Product Details
+Dive into a world of information about each product. From specifications to user reviews, we present a thorough overview to empower users with the knowledge needed to make informed decisions.
+### AI-Powered Chatbox
+Elevate your shopping journey with our cutting-edge AI-based chatbox. Seamlessly integrated into the app, it not only assists users in selecting the perfect product but also provides valuable insights and answers any queries users may have. Our chatbox is designed to understand user preferences, offering personalized recommendations tailored to individual tastes.
+### Technologically Advanced
+IndieKart leverages state-of-the-art technologies, with a focus on Google services, APIs, and GCP. This ensures a robust and efficient platform, offering a seamless and responsive user experience.
+### Language Support
+We understand the diversity of our user base, and to cater to a global audience, IndieKart provides support for multiple languages. Enjoy the convenience of shopping in your preferred language, making the entire process more accessible and user-friendly.
+
 
 ## Getting Started
 
@@ -6,31 +19,8 @@ First, run the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
